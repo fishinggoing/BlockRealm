@@ -33,3 +33,5 @@ UE 5.8.3 原创单人方块探索建造原型。程序生成地形、树木、�
 `./Tools/Validate.ps1 -FreshWorld -OutputName MyValidation` 从干净的隔离世界执行独立包运行检查，并输出 JSON、日志及至少六张 1080p 截图；不加 FreshWorld 时保留之前的隔离测试存档。`./Tools/Pack-Portable.ps1 -OutputFile <新ZIP路径>` 可创建便携 ZIP，并逐文件比对 SHA-256，核验游戏内容、运行库和许可；默认不附带运行存档，加 `-IncludeWorldSave` 只额外包含当前正式世界。本次 ZIP 包含该存档和单独的傍晚洞穴示例，详见交付说明。
 
 架构、分工与状态分别保存于 `Docs/Architecture.md`、`Docs/Progress.md` 和各模块状态文件。素材使用国内小米 MiSans 与本项目原创纹理/声音，累计素材支出 **0 元**。游戏附带字体与 NVIDIA 插件许可，来源明细见 `Docs/AssetSources.md`。
+
+公司测试与跨电脑 Codex 优化按 [多轮提示词工作流](Docs/CodexCompanyTestWorkflow.md) 执行。该流程从全新 GitHub 拉取开始，要求先建立基线，再分轮修改、验证、审查和提交；运行产物留在本机的 `Deliverables/Validation/`，不写入公开仓库。
