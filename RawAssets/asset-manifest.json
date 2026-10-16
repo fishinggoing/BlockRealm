@@ -1,0 +1,557 @@
+{
+  "textures": [
+    {
+      "file": "RawAssets/Textures/T_Grass_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 43,
+      "max": 153,
+      "stddev": 26.391,
+      "edge_delta_mean": 1.591,
+      "sha256": "1b155c30eebf0fa5453f7199d3af33e0bd9121b9e87d0d273523b04d9985cc3c",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Grass_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 46,
+      "max": 255,
+      "stddev": 61.455,
+      "edge_delta_mean": 11.964,
+      "sha256": "a3b20ffdb14fa4c897cbd465043f0752315b1477d8ac8072633d3a6514184ffe",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Grass_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 196,
+      "max": 242,
+      "stddev": 7.849,
+      "edge_delta_mean": 3.589,
+      "sha256": "9782284dbcfefa324e12959ddff6d3df13435ef74649a4a65ee778a2b7fa4210",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Dirt_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 33,
+      "max": 140,
+      "stddev": 24.531,
+      "edge_delta_mean": 1.837,
+      "sha256": "51e33bec827d09d7084d27e4c22793b5de38144fa4f860479839b3949610a2c4",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Dirt_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 60,
+      "max": 255,
+      "stddev": 60.546,
+      "edge_delta_mean": 7.887,
+      "sha256": "7afa23d9bbaf6519970eb20daf10783350a933f886c1fa46cea9238fcff6d052",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Dirt_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 214,
+      "max": 245,
+      "stddev": 5.201,
+      "edge_delta_mean": 0.438,
+      "sha256": "e2c7e0f8c16b81e34bc1de64433d95b2fe111cf6fe27cb7c28d372b8d7e70bde",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Stone_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 45,
+      "max": 146,
+      "stddev": 11.133,
+      "edge_delta_mean": 2.001,
+      "sha256": "3d909c829458a3208e5e829c820081d6adc5f8456b8d5717087e77e90a95553b",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Stone_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 30,
+      "max": 255,
+      "stddev": 60.589,
+      "edge_delta_mean": 4.871,
+      "sha256": "08e114c08985a8ae4dfe28e76a563058ab5451fcb1fd332228c23fa68bacdc69",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Stone_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 186,
+      "max": 234,
+      "stddev": 8.662,
+      "edge_delta_mean": 0.258,
+      "sha256": "ae9c500954dcc6d68ddd9f85b158c886b059c484af96956a1cd767ffd3cdf67d",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Sand_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 91,
+      "max": 229,
+      "stddev": 34.598,
+      "edge_delta_mean": 2.611,
+      "sha256": "2f74fc882c192c0d2fc1e8c7764159916d7f9bdd37b4cfccdd65c7f5f6a456d3",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Sand_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 101,
+      "max": 255,
+      "stddev": 60.243,
+      "edge_delta_mean": 5.316,
+      "sha256": "57f3d732e44997e771e2fef23e1c461751c1ebb9323b9dcfb2ea78758dd87c65",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Sand_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 222,
+      "max": 242,
+      "stddev": 3.469,
+      "edge_delta_mean": 1.229,
+      "sha256": "9d0fcb1c8105806c5be33aa22243d4993a194e9e776de8b8836461aff082f261",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Wood_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 17,
+      "max": 155,
+      "stddev": 33.367,
+      "edge_delta_mean": 3.151,
+      "sha256": "4b860013a72a75e3cf4c8da387ff30cb9143a045a497fcd1f6f747878f7e82e3",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Wood_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 68,
+      "max": 255,
+      "stddev": 60.86,
+      "edge_delta_mean": 0.932,
+      "sha256": "a818101a4cd567a51c5471d8f525e44faa81f3910e9339834e729a931a718db5",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Wood_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 176,
+      "max": 232,
+      "stddev": 9.511,
+      "edge_delta_mean": 3.426,
+      "sha256": "6f951835c12904950202538822d25fee9727836baa82d0a8719c0b4c398db6d4",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Leaves_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 19,
+      "max": 174,
+      "stddev": 28.239,
+      "edge_delta_mean": 5.256,
+      "sha256": "f69947823b20de81f80904c4354998f54eaadb8bb24faf33c15552e44cb6b449",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Leaves_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 62,
+      "max": 255,
+      "stddev": 60.675,
+      "edge_delta_mean": 4.924,
+      "sha256": "ec2c9129611cc171e93c4a4fd355b1e582e7bd915b852538243c3e79e2809336",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Leaves_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 156,
+      "max": 222,
+      "stddev": 11.238,
+      "edge_delta_mean": 3.828,
+      "sha256": "cc5e7056c60939861f3a8b7eb44b966cdf98dacf4d2589210814f7ed47d82b16",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_WoodEnd_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 31,
+      "max": 197,
+      "stddev": 43.167,
+      "edge_delta_mean": 0.524,
+      "sha256": "6507dfabdc453e3ad61be46a60fb08582e6020db6405083699796c5d440a9720",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_WoodEnd_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 119,
+      "max": 255,
+      "stddev": 60.128,
+      "edge_delta_mean": 0.387,
+      "sha256": "e521b11df6030a0e1937ded665490f7fc648a9d61e0a53dda83f756ef654fa61",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_WoodEnd_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 194,
+      "max": 227,
+      "stddev": 5.625,
+      "edge_delta_mean": 2.076,
+      "sha256": "877b9b24cf6e590637f8764dcf465b807a72575c238243bb633474ae594bf9e2",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Glass_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 149,
+      "max": 227,
+      "stddev": 23.273,
+      "edge_delta_mean": 0.109,
+      "sha256": "02c5c504e7216cb8612ad38e683b16ebbd86d2c7a6902f664a681db8511ed6cd",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Glass_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 127,
+      "max": 255,
+      "stddev": 60.106,
+      "edge_delta_mean": 0.117,
+      "sha256": "b31d756ab71d90f286391321a5916131c6f1df53e12605b43b6e0ccea2e6ccc1",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Glass_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 17,
+      "max": 29,
+      "stddev": 2.093,
+      "edge_delta_mean": 0.718,
+      "sha256": "27b042865d5614ab0c5ba4d83789ed620299ca53b213750769d2ce1fe93c80a2",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Water_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 24,
+      "max": 145,
+      "stddev": 38.717,
+      "edge_delta_mean": 0.272,
+      "sha256": "8ffc3e1d2878c630e05ddacbd9caccb873e7689686fd2d3c93a25c12b6f57b80",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Water_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 120,
+      "max": 255,
+      "stddev": 60.132,
+      "edge_delta_mean": 0.234,
+      "sha256": "23e96e6a7e29d4dac4669f2d9ef94a115081b905a00860440d4fcf8d3f00f232",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Water_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 22,
+      "max": 40,
+      "stddev": 3.039,
+      "edge_delta_mean": 1.094,
+      "sha256": "bf9c2c1efcf41397b1a0984e55193f7d6289b5ad7a341bb0fce28226e03ecb48",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Glow_BC.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 30,
+      "max": 254,
+      "stddev": 51.168,
+      "edge_delta_mean": 2.576,
+      "sha256": "66cb63f0aae7932546c0e20dc758f66ecd917c09d38b3f1da58b3c68ae0f37f9",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Glow_N.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 3,
+      "min": 31,
+      "max": 255,
+      "stddev": 60.605,
+      "edge_delta_mean": 4.554,
+      "sha256": "5f0a776a9d2f6b87a4636fe27f9eaa4f871a3bd0739d1a93d726ccac0425bde1",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Textures/T_Glow_R.png",
+      "size": [
+        512,
+        512
+      ],
+      "channels": 1,
+      "min": 97,
+      "max": 158,
+      "stddev": 10.375,
+      "edge_delta_mean": 3.832,
+      "sha256": "9393669ea3f2b9f5b30a958a63e8f3a067c2190a59e93e192fb4970bcc18176e",
+      "cost_cny": 0
+    }
+  ],
+  "audio": [
+    {
+      "file": "RawAssets/Audio/AmbientValley.wav",
+      "duration_seconds": 24.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bits": 16,
+      "frames": 1152000,
+      "loop": true,
+      "peak_dbfs": -25.88,
+      "rms_dbfs": -42.88,
+      "boundary_delta_pcm16": 14,
+      "sha256": "b00f6b22c8f3222c64e3e281de2ee8f1cfc9ac685d09ca29b2b2e8e8ac315271",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Audio/MineSoil.wav",
+      "duration_seconds": 0.24,
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bits": 16,
+      "frames": 11520,
+      "loop": false,
+      "peak_dbfs": -12.46,
+      "rms_dbfs": -29.2,
+      "boundary_delta_pcm16": 0,
+      "sha256": "725b40bc9c7ea1d7f2ea320a28890778d42673aa57378e67e0a24bb35920654f",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Audio/MineStone.wav",
+      "duration_seconds": 0.3,
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bits": 16,
+      "frames": 14400,
+      "loop": false,
+      "peak_dbfs": -10.16,
+      "rms_dbfs": -29.72,
+      "boundary_delta_pcm16": 0,
+      "sha256": "13edde1f60c8b2ce5c18e49526af11767fbe089c4f8631b5c21c6630b7f8f844",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Audio/MineWood.wav",
+      "duration_seconds": 0.28,
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bits": 16,
+      "frames": 13440,
+      "loop": false,
+      "peak_dbfs": -13.23,
+      "rms_dbfs": -30.64,
+      "boundary_delta_pcm16": 0,
+      "sha256": "45d80e99ab66c7aaf1f5a403285b19a29e3e7b75b7da302f9844ddda7190b9d5",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Audio/PlaceBlock.wav",
+      "duration_seconds": 0.22,
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bits": 16,
+      "frames": 10560,
+      "loop": false,
+      "peak_dbfs": -13.12,
+      "rms_dbfs": -28.82,
+      "boundary_delta_pcm16": 0,
+      "sha256": "30aa71103fda73dbda5f0ba1ea611a04874758c9ae7f6bb2bf9894faae15aa4b",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Audio/SelectSlot.wav",
+      "duration_seconds": 0.13,
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bits": 16,
+      "frames": 6240,
+      "loop": false,
+      "peak_dbfs": -20.44,
+      "rms_dbfs": -32.21,
+      "boundary_delta_pcm16": 0,
+      "sha256": "72b23b2ef2a8ede7ac4119910c1150d14aba78887ce87b120994d44040a574a4",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Audio/UIConfirm.wav",
+      "duration_seconds": 0.18,
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bits": 16,
+      "frames": 8640,
+      "loop": false,
+      "peak_dbfs": -20.45,
+      "rms_dbfs": -33.62,
+      "boundary_delta_pcm16": 0,
+      "sha256": "1415481a6358c9ec1338bd598aae08b1f0539195f35341bc6b04b5a7a923e346",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Audio/SaveConfirm.wav",
+      "duration_seconds": 0.7,
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bits": 16,
+      "frames": 33600,
+      "loop": false,
+      "peak_dbfs": -14.34,
+      "rms_dbfs": -26.26,
+      "boundary_delta_pcm16": 0,
+      "sha256": "7c7ebbd8969c797461ede58e03811ad99ed5b9d4dd214e8404effe6ab0401978",
+      "cost_cny": 0
+    },
+    {
+      "file": "RawAssets/Audio/FootstepGrass.wav",
+      "duration_seconds": 0.16,
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bits": 16,
+      "frames": 7680,
+      "loop": false,
+      "peak_dbfs": -22.08,
+      "rms_dbfs": -36.79,
+      "boundary_delta_pcm16": 0,
+      "sha256": "99652da1ce30a74e9c7cae1285a0aed88a2a60bee284c9822f6bc35bfeef19ec",
+      "cost_cny": 0
+    }
+  ],
+  "generator": "Tools/generate_assets.py",
+  "seed": 42137,
+  "expenditure_cny": 0,
+  "texture_world_scale_cm": 100,
+  "license": "Original procedural game artwork and mathematical audio synthesis"
+}

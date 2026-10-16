@@ -1,0 +1,17 @@
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/Deliverables/
+/Plugins/*
+!/Plugins/UE_MCP_Bridge/
+!/Plugins/UE_MCP_Bridge/**
+/Plugins/UE_MCP_Bridge/Binaries/
+/Plugins/UE_MCP_Bridge/Intermediate/
+/Plugins/UE_MCP_Bridge/Saved/
+/Plugins/UE_MCP_Bridge/DerivedDataCache/
+/Build/Windows/FileOpenOrder/
+/.vs/
+*.sln
+*.VC.db
+__pycache__/
